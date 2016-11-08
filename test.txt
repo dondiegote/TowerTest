@@ -5,3 +5,5 @@ Sublime 3
 Atom line
 
 Esto si es branch1 (edito esta linea para ver conflictos)
+
+Línea para conflicto con b2
