@@ -6,4 +6,8 @@ Atom line
 
 Esto si es branch1 (edito esta linea para ver conflictos)
 
+<<<<<<< HEAD
 Línea para conflicto con b2
+=======
+Esto es b2 entrando en conflicto
+>>>>>>> TowerTest/branch2
