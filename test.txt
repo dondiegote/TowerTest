@@ -13,4 +13,8 @@ Esto es b2 entrando en conflicto
 >>>>>>> TowerTest/branch2
 
 
+<<<<<<< HEAD
 linea 16 master
+=======
+Conflicto en b3
+>>>>>>> branch3
