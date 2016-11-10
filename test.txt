@@ -11,3 +11,6 @@ Línea para conflicto con b2
 =======
 Esto es b2 entrando en conflicto
 >>>>>>> TowerTest/branch2
+
+
+Conflicto en b3
